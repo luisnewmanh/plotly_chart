@@ -1,0 +1,19 @@
+body {
+    color: #131138;
+    background-color: #d1f0da;
+}
+
+.jumbotron {
+    background-image: url("../images/header.jpg");
+    background-size: 100% 100%;
+    border: thick double #245018;
+    color: #13362acb;
+    text-align: center;
+    font: bold 24px/1 sans-serif;
+}
+.panel-primary {
+    border: #13362acb !important;
+}
+.panel-heading {
+    background: #13362acb !important;
+}
